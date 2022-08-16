@@ -1,5 +1,0 @@
-#!/bin/bash
-
-sudo ./scripts/pull-scripts
-git fetch origin release-v2.6
-sudo make validate
